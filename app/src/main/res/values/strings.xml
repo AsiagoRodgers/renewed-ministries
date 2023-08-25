@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Renewed Ministries </string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Do not have an account?\nClick here to sign up</string>
+
+    <string name="communities">Communities</string>
+    <string name="events">Events</string>
+    <string name="worshipTimes">Services</string>
+    <string name="findUs">Find Us</string>
+
+    <string name="firstName">First Name</string>
+    <string name="secondName">Second Name</string>
+    <string name="signup">Signup</string>
+    <string name="already_have_account">Already have an account?\nClick here to login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="empty" />
+    <string name="logout">logout</string>
+</resources>
